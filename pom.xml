@@ -8,7 +8,7 @@
 	<name>seckill Maven Webapp</name>
 	<url>http://maven.apache.org</url>
     <properties>
-        <framerwork.version>5.0.7.RELEASE</framerwork.version>
+        <framerwork.version>5.2.7.RELEASE</framerwork.version>
     </properties>
 	<dependencies>
 		<!-- 单元测试 -->
